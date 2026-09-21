@@ -1,1 +1,2 @@
-vpc1.png
+![Ping Test](vpc1.png)
+
