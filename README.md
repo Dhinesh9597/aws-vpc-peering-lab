@@ -1,2 +1,1 @@
-## 📸 Verification Screenshots
-![Ping Success](images/ping-success.png)
+vpc1.png
